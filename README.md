@@ -20,3 +20,7 @@ conda create --name myenv python=3.12
 
 conda activate myenv
 ```
+Install dependancies:
+```
+pip install -r requirements.txt
+```

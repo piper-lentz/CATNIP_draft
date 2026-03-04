@@ -7,7 +7,7 @@ Download the Google Sheet template here:
 
 https://docs.google.com/spreadsheets/d/1ZXnlReVCGW3vZHHM23J9_VRH-fQ7u1lA7Zm_0FPPa9k/copy
 
-This sheet comes preloaded with information for NIR and ALMA images for 2 disks, so 4 images total. 
+This sheet comes preloaded with information for NIR and ALMA images for the disks EM* AS 209 and HD135344B. The files for these disk images are uploaded in the folder as a part of this tutotrial.
 
 Part 2 - setting up the code
 

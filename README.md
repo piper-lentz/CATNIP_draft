@@ -9,6 +9,28 @@ https://docs.google.com/spreadsheets/d/1ZXnlReVCGW3vZHHM23J9_VRH-fQ7u1lA7Zm_0FPP
 
 This sheet comes preloaded with information for NIR and ALMA images for the disks EM* AS 209 and HD135344B. The files for these disk images are uploaded in the folder as a part of this tutotrial.
 
+When you have made your own copy of this sheet, first we need to create a json file so the code can have permissions to talk to the sheet. Here are the steps to creating your own json file:
+
+1. Create a new Google Cloud project in the Google Cloud Console (https://console.cloud.google.com)
+
+2. Go to APIs & Services and click on Library
+
+3. Enable Google Sheets API
+
+4. In Cloud Console navigation menu, go to IAM & Admin and click Service Accounts
+   
+5. Create Service Account, give it a nice name, don't worry about permissions or principles
+
+6. Inside the service account click on Keys, and select “Add Key”, “Create new key”, and chose json
+
+7. Now you should have a downloaded json file
+
+8. Go to your Google sheet and share it with the service account email and give it viewer access
+
+9. Add the json file to the directory your FIGG_imager is
+
+
+
 Part 2 - setting up the code
 
 Create and activate a new environment:

@@ -38,6 +38,6 @@ conda install jupyterlab
 jupyter lab
 ```
 
-and 
+and open the tutorial ipynb file in the FIGG-CATNIP folder.
 
 Now work through and add tests and such

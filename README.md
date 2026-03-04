@@ -31,14 +31,13 @@ Install dependancies:
 pip install -r requirements.txt
 ```
 
-Open a Jupyter Lab/notebook
+Open a Jupyter Lab
+```
+conda install jupyterlab
 
-Enter folder called CATNIP_draft
+jupyter lab
+```
 
-Enter FIGG-CATNIP
-
-Enter Notebook for FIGG-CATNIP_v1_0
-
-There is the tutorial
+and 
 
 Now work through and add tests and such

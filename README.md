@@ -3,7 +3,9 @@ This is the draft version to set up the public facing CATNIP tool. Currently, I'
 
 Part 1 - setting up your Google sheet
 
+Download the Google Sheet template here:
 
+https://docs.google.com/spreadsheets/d/1ZXnlReVCGW3vZHHM23J9_VRH-fQ7u1lA7Zm_0FPPa9k/copy
 
 Part 2 - setting up the code
 

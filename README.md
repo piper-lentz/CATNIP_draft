@@ -27,7 +27,7 @@ When you have made your own copy of this sheet, first we need to create a json f
 
 8. Go to your Google sheet and share it with the service account email and give it viewer access
 
-9. Add the json file to the directory your FIGG_imager is
+9. Add the json file to the directory the tutorial file is in
 
 
 

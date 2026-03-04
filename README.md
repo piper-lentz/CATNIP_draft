@@ -13,14 +13,6 @@ Part 2 - setting up the code
 
 Create and activate a new environment:
 
-Option 1
-```
-python3 -m venv myenv
-
-source myenv/bin/activate
-```
-
-Option 2
 ```
 conda create --name myenv python=3.12
 
@@ -32,9 +24,7 @@ How to download:
 git clone https://github.com/piper-lentz/CATNIP_draft.git
 ```
 
-
 cd into CATNIP_draft folder
-
 
 Install dependancies:
 ```

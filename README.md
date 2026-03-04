@@ -1,6 +1,12 @@
 # CATNIP_draft
 This is the draft version to set up the public facing CATNIP tool. Currently, I'm making a tutorial for the tool.
 
+Part 1 - setting up your Google sheet
+
+
+
+Part 2 - setting up the code
+
 Create and activate a new environment:
 
 Option 1
@@ -22,7 +28,19 @@ How to download:
 git clone https://github.com/piper-lentz/CATNIP_draft.git
 ```
 
+
+cd into CATNIP_draft folder
+
+
 Install dependancies:
 ```
 pip install -r requirements.txt
 ```
+
+Open a Jupyter Lab/notebook
+Enter folder called CATNIP_draft
+Enter FIGG-CATNIP
+Enter Notebook for FIGG-CATNIP_v1_0
+There is the tutorial
+
+Now work through and add tests and such

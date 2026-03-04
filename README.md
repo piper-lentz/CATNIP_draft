@@ -7,6 +7,8 @@ Download the Google Sheet template here:
 
 https://docs.google.com/spreadsheets/d/1ZXnlReVCGW3vZHHM23J9_VRH-fQ7u1lA7Zm_0FPPa9k/copy
 
+This sheet comes preloaded with information for NIR and ALMA images for 2 disks, so 4 images total. 
+
 Part 2 - setting up the code
 
 Create and activate a new environment:
